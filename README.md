@@ -6,7 +6,7 @@
 <p>In this project I have built a content based movie recommender system </p>
 <br>
 <h2>What it does :</h2>
-<p align='center'><img height='400' src = 'https://user-images.githubusercontent.com/31500911/143414670-ec2ddcc1-70e4-48d0-928f-5e4f8cb9b54c.png'></p>
+<p align='center'><img height='400' src = 'https://user-images.githubusercontent.com/31500911/145380710-1813c6e7-7635-47a6-b764-c4bd3315c9c1.png'></p>
 <br>
 <h2>Live Demo</h2>
 <p align='center'><img height='400' src = 'https://user-images.githubusercontent.com/31500911/143416246-4bc98d07-12fa-404a-a98c-228eaaa6ef5c.gif'></p>
