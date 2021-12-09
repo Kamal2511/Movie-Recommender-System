@@ -3,7 +3,7 @@
 <h1 align='center'>Model deploy using Streamlit on Heroku Platform</h1>
 <h2 align='center'>https://movie-recommender-system-kamal.herokuapp.com/</h2>
 <br>
-<p>In this project I have built a content based movie recommender system </p>
+<p>In this project I have built a content based movie recommender system. The algorithm recommends products that are similar to the ones that a user has liked in the past. This similarity (generally cosine similarity) is computed from the data we have about the items as well as the user’s past preferences. </p>
 <br>
 <h2>What it does :</h2>
 <p align='center'><img height='400' src = 'https://user-images.githubusercontent.com/31500911/145380710-1813c6e7-7635-47a6-b764-c4bd3315c9c1.png'></p>
